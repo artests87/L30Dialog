@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">L30Dialog</string>
     <string name="action_settings">Settings</string>
+    <string-array name="stringDialog">
+        <item>Vaska</item>
+        <item>Orange</item>
+        <item>Barsya</item>
+    </string-array>
 </resources>
